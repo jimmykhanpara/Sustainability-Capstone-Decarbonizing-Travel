@@ -1,0 +1,85 @@
+Feature,Importance
+CityRoute_Freq,0.23881997
+Route_Freq,0.12852716
+DepartureLocationCity_Freq,0.11035365
+RouteFrequency,0.0878192
+ShippingType,0.084221505
+ShippingTypeDescription,0.07208364
+DepartureLocationCountry_Freq,0.06368891
+IsInternational,0.06298373
+ArrivalLocationCountry_Freq,0.035184447
+Take Departure Train,0.018242346
+LongStay,0.015494099
+HotelNights,0.015009685
+Pickup Rental,0.013201281
+ShippingPurpose,0.009570135
+Take Departure Flight,0.008209227
+ArrivalLocationCity_Freq,0.005128225
+TripID,0.0029492255
+OutOfPolicy,0.0023311651
+NetCosts,0.0011381516
+CostPerHotelNight,0.00097480114
+AbsTransportationPriceDifference,0.0009681839
+TransportCancelled,0.00096004107
+TransportationPriceDifference,0.0009522924
+PricePerPreapprovalDay,0.00081772543
+Itinerary Edit,0.0007993991
+Preapproved,0.0006772126
+ReasonForDelay,0.00065078516
+Purpose,0.00062445697
+Flight Change,0.0006235663
+ReasonForNewTransport,0.0006087662
+ReasonForTransportCancellation,0.0006065062
+Ticket Reissued,0.00056518556
+NewTransportSelection,0.0005552105
+ProcessDurationHours,0.0005477276
+Book Lodging,0.0005395516
+BookingWeekday,0.00053590274
+BookingHour,0.0005234795
+ReimbursementPerExtensionDay,0.0005227016
+BusinessUnit_Freq,0.00052085065
+BookingMonth,0.00051995233
+UniqueEvents,0.0005063486
+ExpenseReimbursementAmount,0.0005058556
+ReasonForNewHotel,0.00050076074
+DaysPreapproved,0.0005000049
+ExpenseDenialReason,0.0004991366
+WeekendBooking,0.0004988901
+NewHotelSelection,0.00049741013
+Manager Preapproved,0.0004916823
+ProcessCode,0.00048710703
+Flight Cancellation,0.00048207497
+BusinessTravel,0.00048178705
+EntityTripCount,0.00047847093
+ExpenseReimbursementReason,0.00047548485
+EntitiyCode_Freq,0.00047364674
+EventCount,0.00046072924
+ExtensionLength,0.0004532772
+ReasonForTransportationChange,0.00045278165
+NewModeOfTransportation,0.00045052843
+HighCostTrip,0.00042225342
+HasDelayReason,0.0004135609
+EventDiversity,0.0003974635
+Trip Extension,0.00039524003
+Book Mode of Transportation,0.00030160483
+Mode of Transportation Change,0.0001728405
+Hotel Change,0.00015109761
+Expense Request Edit,0.0
+Expense Request Denied,0.0
+Flight Delay,0.0
+Expense Reimbursement,0.0
+Travel Delay,0.0
+Missed Flight,0.0
+Missed Pickup,0.0
+HasExpenseReimbursement,0.0
+Missed Train,0.0
+HotelChanged,0.0
+PriceIncrease,0.0
+Receive Confirmation,0.0
+Rental Cancellation,0.0
+Submit Expense Request,0.0
+Train Cancellation,0.0
+Train Change,0.0
+Train Delay,0.0
+Vehicle Change,0.0
+TransportChanged,0.0
