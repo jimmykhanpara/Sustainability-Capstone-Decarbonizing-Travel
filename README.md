@@ -10,15 +10,12 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Ensemble-EB6231?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-Ensemble-2C9E45?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-Ensemble-FFCC00?style=for-the-badge&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Submitted-2ea44f?style=for-the-badge)
 
 </div>
 
 ---
 
 ## 📖 Table of Contents
-- [Mission Briefing](#-mission-briefing)
-- [Project Architecture](#-project-architecture)
 - [✨ Feature Highlights](#-feature-highlights)
 - [Part 1 — Process Intelligence & Dashboarding](#-part-1--process-intelligence--dashboarding-celonis)
 - [Part 2 — High-Carbon Trip Prediction](#-part-2--high-carbon-trip-prediction-ml)
@@ -185,16 +182,15 @@ greentravel-intelligence-challenge/
 ├── 📄 README.md
 │
 ├── 📁 part1_process_intelligence/
-│   ├── Celonis_Final_Updated.pptx           # Final pitch deck + dashboard screenshots
-│   └── _FullName__Capstone.pptx             # Submission template used
+│   ├── part1-celonis-pitch-deck.pptx        # Final pitch deck + dashboard screenshots
+│   └── part1-submission-template.pptx       # Submission template used
 │
 ├── 📁 part2_ml_prediction/
-│   ├── Code_Submission.ipynb                # Feature engineering + ensemble model
+│   ├── part2-model-pipeline.ipynb           # Feature engineering + ensemble model
 │   ├── feature_importance.csv               # Ranked feature importances
 │   ├── submission.csv                       # Final predicted probabilities
-│   └── sample_submission.csv                # Required submission format
 │
-├── 📁 data/
+├── 📁 Data/
 │   ├── public_trip_data.csv                 # Training set (with emissions + label)
 │   ├── public_trip_event_log.csv            # Public process event log
 │   ├── public_trip_event_attributes.csv     # Public contextual attributes
@@ -202,15 +198,14 @@ greentravel-intelligence-challenge/
 │   ├── private_trip_event_log.csv           # Private process event log
 │   └── private_trip_event_attributes.csv    # Private contextual attributes
 │
-├── 📁 docs/
-│   ├── Problem_Statements.pdf                                  # Overall Summer Projects brief
-│   ├── Part2.pdf                                                # High-carbon prediction task spec
-│   ├── README__Sustainability_Capstone_-_Decarbonizing_Travel.pdf
-│   ├── Sustainability_Capstone_Outline__Decarbonizing_Travel.pdf
-│   └── Sustainability_Data_Dictionary.xlsx   # Full column definitions
+├── 📁 Docs/
+│   ├── Part2-ml-task.pdf                                              
+│   ├── Caapstone-brief.pdf
+│   ├── Capstone-outline.pdf
+│   └── Data-dictionary.xlsx                 # Full column definitions
 │
-└── reports/
-    └── dashboard_screenshots/                # PNG exports of Celonis dashboard tabs
+└── 📁 Dashboard/
+    └── Dashboard_Celonis.pdf/               # PDF of Celonis dashboard tabs
 ```
 
 ---
